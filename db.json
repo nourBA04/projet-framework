@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Apprendre Vue.js",
+      "description": "Compléter le projet de gestion des tâches.",
+      "priority": "High",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Réviser les cours d'UML",
+      "description": "Lire le chapitre 4 et résoudre les exercices pratiques.",
+      "priority": "High",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Faire du sport",
+      "description": "30 minutes de course à pied.",
+      "priority": "Medium",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Faire les courses",
+      "description": "Acheter des fruits, légumes, et du lait.",
+      "priority": "Medium",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Lire un livre",
+      "description": "Lire 20 pages du roman en cours.",
+      "priority": "Low",
+      "completed": false
+    }
+  ]
+}
